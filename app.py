@@ -24,7 +24,6 @@ st.markdown("""
 
 # --- BARRE LATÉRALE (SIDEBAR) ---
 with st.sidebar:
-    st.image("https://via.placeholder.com/150", width=150) # Remplacez par le chemin de votre photo
     st.title("DIARRY SOW")
     st.markdown("---")
     
@@ -44,7 +43,7 @@ with st.sidebar:
     st.progress(0.4)
 
 # --- COLONNE PRINCIPALE ---
-st.title("Curriculum Vitae")
+st.title("geomaticienne")
 
 # Section Formation
 st.header("🎓 Formation")
